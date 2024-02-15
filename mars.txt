@@ -1,3 +1,4 @@
 Very cold and dry; terrain is reddish everywhere
 mars has two moons, will this be a problem?
-
+year is 687 earth days
+day is 24:37 earth hours:minutes
